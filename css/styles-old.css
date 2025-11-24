@@ -4,63 +4,6 @@
 
 
 
-
-.main_section {
-    background-color: #2e2f42;
-    letter-spacing: 0.02em;
-    padding: 188px 0;
-    text-align: center;
-    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url('../images/people-office.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    max-width: 1440px;
-    margin: auto;
-}
-
-.section_title {
-    max-width: 496px;
-    font-size: 56px; 
-    line-height: 1.07; 
-    color: #ffffff; 
-    letter-spacing: 0.02em;
-    margin-right: auto; 
-    margin-left: auto;
-    margin-bottom: 48px;
-}
-
-.cta_button {
-    display: block; 
-    min-width: 169px;
-    height: 56px;
-    border: none;
-    background-color: #4d5ae5;
-    border-radius: 4px;
-    cursor: pointer;
-    color: #ffffff;
-    margin-right: auto; 
-    margin-left: auto;
-    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1); 
-}
-.cta_button:hover,
-.cta_button:focus {
-    background-color: #404BBF; 
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .main_section_info {
     padding: 120px 0;
 }
